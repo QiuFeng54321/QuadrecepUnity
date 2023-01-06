@@ -1,0 +1,32 @@
+Script started on Fri Jan  6 10:31:08 2023
+[setupvars.sh] OpenVINO environment initialized
+^[[B[1m[7m%[27m[1m[0m                                                                                                                                                                       ]2;mac@WilliamYeAs5:~/UnityProjects/Quadrecep]1;..cts/Quadrecep[0m[27m[24m[J[39m[0m[49m[40m[39m mac@WilliamYeAs5 [44m[30m[30m ~/UnityProjects/Quadrecep [49m[34m[39m [K[?1h=[?2004hScripts/[?1l>[?2004l
+]2;Scripts/]1;Scripts/zsh: no such file or directory: Scripts/
+[1m[7m%[27m[1m[0m                                                                                                                                                                       ]2;mac@WilliamYeAs5:~/UnityProjects/Quadrecep]1;..cts/Quadrecep[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m mac@WilliamYeAs5 [44m[30m[30m ~/UnityProjects/Quadrecep [49m[34m[39m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 24
+drwxr-xr-x  14 mac  staff   448B Jan  6 10:31 [1m[36m.[39;49m[0m
+drwxr-xr-x@ 14 mac  staff   448B Jan  6 10:16 [1m[36m..[39;49m[0m
+drwxr-xr-x   3 mac  staff    96B Jan  6 10:27 [1m[36m.idea[39;49m[0m
+-rw-r--r--   1 mac  staff   3.1K Jan  6 10:17 Assembly-CSharp.csproj
+drwxr-xr-x   8 mac  staff   256B Jan  6 10:27 [1m[36mAssets[39;49m[0m
+drwxr-xr-x  36 mac  staff   1.1K Jan  6 10:17 [1m[36mLibrary[39;49m[0m
+drwxr-xr-x   7 mac  staff   224B Jan  6 10:26 [1m[36mLogs[39;49m[0m
+drwxr-xr-x   4 mac  staff   128B Jan  6 10:16 [1m[36mPackages[39;49m[0m
+drwxr-xr-x  24 mac  staff   768B Jan  6 10:17 [1m[36mProjectSettings[39;49m[0m
+-rw-r--r--   1 mac  staff   695B Jan  6 10:17 Quadrecep.sln
+drwxr-xr-x  12 mac  staff   384B Jan  6 10:30 [1m[36mTemp[39;49m[0m
+drwxr-xr-x   4 mac  staff   128B Jan  6 10:17 [1m[36mUserSettings[39;49m[0m
+drwxr-xr-x   3 mac  staff    96B Jan  6 10:27 [1m[36mobj[39;49m[0m
+-rw-r--r--   1 mac  staff    43B Jan  6 10:31 typescript
+[1m[7m%[27m[1m[0m                                                                                                                                                                       ]2;mac@WilliamYeAs5:~/UnityProjects/Quadrecep]1;..cts/Quadrecep[0m[27m[24m[J[39m[0m[49m[40m[39m mac@WilliamYeAs5 [44m[30m[30m ~/UnityProjects/Quadrecep [49m[34m[39m [K[?1h=[?2004hAAsset/Sps/Sprites[1m/[0m[0m        cSc
+[J[1;31mScenes[0m/   [J[1;31mScripts[0m/[J[A[0m[27m[24m[0m[39m[49m[48CAssets/Sc[K[0m[39m[49menes[1m/[0m
+[J[7mScenes/ [0m  [J[1;31mScripts[0m/[J[A[0m[27m[24m[0m[39m[49m[48CAssets/Scenes[1m/[0m[K[0m[39m[49m
+[7mScenes/ [0m  [7mScenes/ [0m  [A[0m[27m[24m[0m[39m[49m[48CAssets/Scenes[1m/[0m[K[0m[39m[49mript[0ms[1m/[0m
+[10C[7mScripts/[0m[1;31mScenes[0m/   [A[0m[27m[24m[0m[39m[49m[48CAssets/Scripts[1m/[0m[K[0m[39m[49m
+[J[A[63C[0m [?1l>[?2004l
+[J]2;Assets/Scripts]1;Assets/Scripts[1m[7m%[27m[1m[0m                                                                                                                                                                       ]2;mac@WilliamYeAs5:~/UnityProjects/Quadrecep/Assets/Scripts]1;..ssets/Scripts[0m[27m[24m[J[39m[0m[49m[40m[39m mac@WilliamYeAs5 [44m[30m[30m ~/UnityProjects/Quadrecep/Assets/Scripts [49m[34m[39m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 0
+drwxr-xr-x  2 mac  staff    64B Jan  6 10:26 [1m[36m.[39;49m[0m
+drwxr-xr-x  8 mac  staff   256B Jan  6 10:27 [1m[36m..[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                       ]2;mac@WilliamYeAs5:~/UnityProjects/Quadrecep/Assets/Scripts]1;..ssets/Scripts[0m[27m[24m[J[39m[0m[49m[40m[39m mac@WilliamYeAs5 [44m[30m[30m ~/UnityProjects/Quadrecep/Assets/Scripts [49m[34m[39m [K[?1h=[?2004hggi t t  g  ....[?1l>[?2004l
+]2;../..]1;...[1m[7m%[27m[1m[0m                                                                                                                                                                       ]2;mac@WilliamYeAs5:~/UnityProjects/Quadrecep]1;..cts/Quadrecep[0m[27m[24m[J[39m[0m[49m[40m[39m mac@WilliamYeAs5 [44m[30m[30m ~/UnityProjects/Quadrecep [49m[34m[39m [K[?1h=[?2004h
